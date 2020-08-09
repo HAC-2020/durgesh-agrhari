@@ -20,3 +20,19 @@ student can create account at hackathon and hacker Earth from here and the stude
 If a student has prepared a related project from the website he can take the participate from this site which I have taken
 
 Is a student follow my website he can create his account on the GitHub and link Lene so that he will be helpful to take the participate in any of the hackathon.
+
+*****Now second part
+
+1:- And sir I have uploaded a list of some of the best tutorial playlist here. which the student can follow and watch the video of the best channel on YouTube and sir I have prepared this list on the basis of ranking.
+
+2:-Sir I have created a service page so that you can improve your coding skills. If a student comes in the first year he does not know which language should read .sir I have include the more playlist in the language page with already language and student does not know how to improve his coding so I designed this page especially for them.
+
+3:- Student can create account at hackathon and hacker Earth from here and the student is from here can also take participate in the hackathon by clicking on the button hair.
+
+4:- If a student has prepared a related project from the website he can take the participate from this site which I have taken
+If a student follow my website he can create his account on the GitHub and linkedin so that he will be helpful to take the participate in any of the hackathon. 
+
+5:-  Sir I now proceed to my blog page. Sir in this page all post remains whatever I have uploaded and do so on my latest post homepage and all post does the show in the blog. From this box student can follow me and also contact me.
+
+6:- Sir I now proceed to my contact page.  Sir  my contact page so that any query of the student can contact me.
+I am also included in map location in my website and included off social media icons.
