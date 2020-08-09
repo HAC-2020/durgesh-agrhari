@@ -2,7 +2,7 @@
 This is the initiated README for team durgesh-agrhari, Please edit this as you build your project
 [5:34 AM, 8/7/2020] Durgesh Agrhari: 1:- Sir I have created a website I think so this website is helpful for B.Tech students and it is also helpful for those who have an interested in coding.
 
-2:- Sir my website name is Code Smashers . My website has 5 pages : Home, Language, Blog, Service, Contact. I upload the latest post in my home page which every student can read and improve their skills. If the student is a beginner then his or her website is usefull and helpfull.
+2:- Sir my website name is Code Message . My website has 5 pages : Home, Language, Blog, Service, Contact. I upload the latest post in my home page which every student can read and improve their skills. If the student is a beginner then his or her website is usefull and helpfull.
 
 3:- because it has posted all the sufficient code, summary, implementation and concept related to coding. Sir ,In my latest post ,Language summary ,implementation such as :Python, Java, C,data Structure,HTML, CSS , AR ,VR, coeding improve and many more.
 
